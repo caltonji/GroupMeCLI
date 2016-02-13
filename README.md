@@ -1,4 +1,4 @@
-# ${1:Project Name}
+# GroupMeCLI
 GroupMe command line interface
 ## Installation
 npm install groupme
