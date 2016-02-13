@@ -2,7 +2,7 @@
 GroupMe command line interface
 ## Installation
 npm install groupme
-## Usage
+## Commands
 ####groupme groups
 ####groupme use <groupid>
 ####groupme messages
