@@ -12,6 +12,6 @@ npm install groupme
 to switch to watching the current group
 
 ###In watch mode
-####like <id>
-####send <message of whatever length>
-####ctrl-c to exit
+####like {id}
+####send {message of whatever length}
+####exit
