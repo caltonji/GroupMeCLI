@@ -1,4 +1,4 @@
-var token = "RnXPVBcpWihxhUw3EWKHYjACEwUZcYc27BLeefik";
+var token = "";
 // const readline = require("readline");
 var request = require('request');
 var moment = require('moment');
