@@ -1,10 +1,10 @@
-var token = "RnXPVBcpWihxhUw3EWKHYjACEwUZcYc27BLeefik";
 // const readline = require("readline");
 var request = require('request');
 var moment = require('moment');
+var configs = require('./configs.js');
 var groupIDs = {}
 var curGroup = 1;
-
+var token = configs.token;
 
 getGroups(function(g) {
     groupIDs = g;
