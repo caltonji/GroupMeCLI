@@ -1,8 +1,8 @@
 # GroupMeCLI
 GroupMe command line interface
-## Installation
+## Installation (accept you can't install yet)
 npm install groupme
-## Commands
+## Commands (except these aren't the real commands, just what we thought we would do when we were hungover at that hackgt hackathon)
 ####groupme groups
 ####groupme use {groupid}
 ####groupme messages
